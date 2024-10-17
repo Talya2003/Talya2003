@@ -2,17 +2,14 @@
 <h3 align="center">Automation Developer | QA Engineer | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://github.com/Talya2003/Talya2003/blob/main/%D7%94%D7%95%D7%A1%D7%A3%20%D7%9B%D7%95%D7%AA%D7%A8%D7%AA.png)" width="200" />
 </p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I'm currently working on **cutting-edge automation projects**.
-- 🌱 I’m constantly learning and diving deeper into **AI, DevOps, and Automation Tools**.
-- 💬 Ask me about **Automation**, **QA methodologies**, and **Backend development**.
-- 📫 Reach me at: **[YourEmail@example.com](mailto:YourEmail@example.com)**
-- ⚡ Fun fact: *I enjoy optimizing processes and writing clean, efficient code.*
+- 🔭 I'm currently working on **Population and Immigration Authority**.
+- 📫 Reach me at: **[talya8399@gmail.com](mailto:talya8399@gmail.com)**
 
 ---
 
