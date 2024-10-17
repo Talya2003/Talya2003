@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Talya!</h1>
-<h3 align="center">Automation Developer | QA Engineer | Software Engineer</h3>
+<h3 align="center"> Software Engineer | Automation Developer | QA Engineer </h3>
 
 <p align="center">
   <img src="https://github.com/Talya2003/Talya2003/blob/main/%D7%94%D7%95%D7%A1%D7%A3%20%D7%9B%D7%95%D7%AA%D7%A8%D7%AA.png" width="500" alt="Talya's Banner" />
@@ -28,7 +28,6 @@
 
 ### Databases
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
 </p>
@@ -49,7 +48,7 @@
 
 ### Development Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" title="Android Development"/>
 </p>
@@ -66,7 +65,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40" title="Microsoft Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40" title="Microsoft Word"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40" title="Microsoft PowerPoint"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Access_2013_logo.svg/768px-Microsoft_Access_2013_logo.svg.png" alt="Access" width="40" height="40" title="Microsoft Access"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="40" height="40" title="Microsoft Access"/>
 </p>
 
 ### Design Tools
