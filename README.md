@@ -62,11 +62,11 @@
 
 ### Office Tools
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Microsoft_Office_2013_logo.png" alt="microsoft office" width="40" height="40" title="Microsoft Office Suite"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Microsoft Office" width="40" height="40" title="Microsoft Office"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40" title="Microsoft Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40" title="Microsoft Word"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40" title="Microsoft PowerPoint"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Microsoft_Office_Access_%282019-present%29.svg" alt="access" width="40" height="40" title="Microsoft Access"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Access_2013_logo.svg/768px-Microsoft_Access_2013_logo.svg.png" alt="Access" width="40" height="40" title="Microsoft Access"/>
 </p>
 
 ### Design Tools
