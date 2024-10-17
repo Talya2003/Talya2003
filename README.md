@@ -53,13 +53,13 @@
 
 ### 🌐 Let's Connect:
 <p align="center">
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank" style="text-decoration: none;">
+  <a href="[https://linkedin.com/in/talya-kazayof](https://www.linkedin.com/in/talya-kazayof/)" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/Talya2003" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:YourEmail@example.com" style="text-decoration: none;">
+  <a href="mailto:talya8399@example.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
