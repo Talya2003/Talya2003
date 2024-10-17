@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me:
+#### 🚀 About Me:
 - 🔭 I'm currently working at the **Population and Immigration Authority**.
 - 💼 Specializing in automation development, software testing, and general software development.
 - 🌱 Always learning and growing in various technology domains.
@@ -15,9 +15,9 @@
 
 ---
 
-## 🛠 My Tech Stack:
+### 🛠 My Tech Stack:
 
-### Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/>
@@ -26,47 +26,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
 </p>
 
-### Databases
+#### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" title="MongoDB"/>
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" title="SQLite"/>
 </p>
 
-### Web Development
+#### Web Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
 </p>
 
-### Cloud Platforms
+#### Cloud Platforms
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" title="Amazon Web Services"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" title="Google Cloud Platform"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
 </p>
 
-### Development Tools
+#### Development Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" title="Android Development"/>
 </p>
 
-### Operating Systems
+#### Operating Systems
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/768px-Windows_logo_-_2012.svg.png" alt="Windows" width="40" height="40" title="Windows"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" title="Linux"/>
 </p>
 
-### Office Tools
+#### Office Tools
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40" title="Microsoft Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40" title="Microsoft Word"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40" title="Microsoft PowerPoint"/>
 </p>
 
-### Other Tools
+#### Other Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" title="Canva"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" title="GPT (ChatGPT / OpenAI)"/>
@@ -76,7 +76,7 @@
 
 ---
 
-### 🌐 Let's Connect:
+#### 🌐 Let's Connect:
 <p align="center">
   <a href="https://www.linkedin.com/in/talya-kazayof/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
