@@ -61,28 +61,17 @@
 
 ### Office Tools
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" alt="Microsoft Office" width="40" height="40" title="Microsoft Office"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40" title="Microsoft Excel"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg" alt="word" width="40" height="40" title="Microsoft Word"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg" alt="powerpoint" width="40" height="40" title="Microsoft PowerPoint"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Microsoft_Office_Access_%282019%E2%80%93present%29.svg" alt="Access" width="40" height="40" title="Microsoft Access"/>
 </p>
 
-### Design Tools
+### Other Tools
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40" title="Canva"/>
-</p>
-
----
-
-## 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talya2003&show_icons=true&theme=radical" alt="Talya's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talya2003&theme=radical" alt="Talya's GitHub streak" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40" title="GPT (ChatGPT / OpenAI)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Claude_logo.svg/800px-Claude_logo.svg.png" alt="Claude AI" width="40" height="40" title="Claude AI (Anthropic)"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Google_Gemini_logo.svg/800px-Google_Gemini_logo.svg.png" alt="Gemini AI" width="40" height="40" title="Gemini AI (Google)"/>
 </p>
 
 ---
@@ -98,10 +87,4 @@
   <a href="mailto:talya8399@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Talya2003&style=flat-square&color=blue" alt="Profile views counter"/>
 </p>
