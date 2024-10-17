@@ -2,7 +2,7 @@
 <h4 align="center">Automation Developer | QA Engineer | Software Engineer</h4>
 
 <p align="center">
-  <img src="https://github.com/Talya2003/Talya2003/blob/main/%D7%94%D7%95%D7%A1%D7%A3%20%D7%9B%D7%95%D7%AA%D7%A8%D7%AA.png" width="750" />
+  <img src="https://github.com/Talya2003/Talya2003/blob/main/%D7%94%D7%95%D7%A1%D7%A3%20%D7%9B%D7%95%D7%AA%D7%A8%D7%AA.png" width="550" />
 </p>
 
 ---
