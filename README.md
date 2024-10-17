@@ -4,6 +4,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talya2003&theme=tokyonight&hide_border=true&v=1)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talya2003&show_icons=true&theme=tokyonight)
+//![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talya2003&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talya2003&layout=compact&theme=tokyonight)
+//![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talya2003&layout=compact&theme=tokyonight)
