@@ -1,82 +1,55 @@
-<h1 align="center">Hi 👋, I'm Talya</h1>
-<h3 align="center">A passionate Software Engineer with a knack for Automation and QA</h3>
+<h1 align="center">Hi there 👋, I'm Talya!</h1>
+<h3 align="center">Automation Developer | QA Engineer | Software Engineer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Talya2003&label=Profile%20views&color=0e75b6&style=flat" alt="Talya2003" />
-  <a href="https://github.com/Talya2003?tab=followers">
-    <img src="https://img.shields.io/github/followers/Talya2003?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69330530/123536405-598d5580-d728-11eb-9533-515882f8f0d0.gif" alt="Coding" width="400"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **[YourProjectName](https://github.com/YourProjectLink)**
-- 🌱 Always learning new technologies: **[AI, DevOps, etc.]**
-- 📝 I regularly write articles on [YourBlogLink](https://YourBlogLink.com)
-- 💬 Ask me about **Automation, Software Testing, and Backend Development**
-- 📫 Reach me at **[YourEmail@example.com](mailto:YourEmail@example.com)**
-- ⚡ Fun fact: *I love optimizing everything!*
+### 🚀 About Me:
+- 🔭 I'm currently working on **cutting-edge automation projects**.
+- 🌱 I’m constantly learning and diving deeper into **AI, DevOps, and Automation Tools**.
+- 💬 Ask me about **Automation**, **QA methodologies**, and **Backend development**.
+- 📫 Reach me at: **[YourEmail@example.com](mailto:YourEmail@example.com)**
+- ⚡ Fun fact: *I enjoy optimizing processes and writing clean, efficient code.*
 
 ---
 
-## 🛠️ Technologies & Tools:
+### 🛠️ My Toolbox:
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java&logoColor=red"/>
+  <img src="https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/-Selenium-333?style=for-the-badge&logo=selenium&logoColor=green"/>
-  <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talya2003&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talya2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talya2003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Talya2003&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Talya2003&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-## ✍️ Latest Blog Posts:
-- [Your Most Recent Blog Post 1](https://yourbloglink.com/post1)
-- [Your Most Recent Blog Post 2](https://yourbloglink.com/post2)
-
-➡️ [More Posts](https://yourbloglink.com)
-
----
-
-## 🌐 Connect with Me:
+### 🌐 Let's Connect:
 <p align="center">
   <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://github.com/Talya2003" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:YourEmail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Talya2003">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
-  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact:
-*I love tackling challenges that require creative solutions and teamwork!*
+### ⚡ Fun Fact:
+*I’m a strong believer in using automation to make things faster and more efficient!*
