@@ -15,7 +15,7 @@
 
 ---
 
-<img src="" alt="">
+<img src="https://github.com/Talya2003/Talya2003/blob/main/My%20Skills%20(1).png" alt="">
 
 ---
 
