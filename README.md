@@ -17,8 +17,8 @@
 
 ### 🛠 My Tech Stack:
 
-<table style="border: none;">
-  <tr>
+<table>
+  <tr style="border: none;">
     <td>
       <h4>Programming Languages</h4>
       <p align="left">
