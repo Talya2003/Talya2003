@@ -17,7 +17,7 @@
 
 ### 🛠 My Tech Stack:
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <h4>Programming Languages</h4>
