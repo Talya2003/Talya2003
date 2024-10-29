@@ -7,10 +7,6 @@
 
 ---
 
-#### 🚀 About Me:
-- 🔭 I'm currently working at the **Population and Immigration Authority**.
-- 💼 Specializing in automation development, software testing, and general software development.
-- 🌱 Always learning and growing in various technology domains.
 - 📫 Reach me at: **[talya8399@gmail.com](mailto:talya8399@gmail.com)**
 
 ---
