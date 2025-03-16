@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Talya!</h1>
-<h3 align="center"> Software Engineer | Automation Developer | QA Engineer </h3>
+<h1 align="center">Hello 👋, I'm Talya!</h1>
+<h3 align="center"> Software Engineer | Automation Developer | BI Developer </h3>
 
 <p align="center">
   <img src="https://github.com/Talya2003/Talya2003/blob/main/%D7%94%D7%95%D7%A1%D7%A3%20%D7%9B%D7%95%D7%AA%D7%A8%D7%AA.png" width="500" alt="Talya's Banner" />
